@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hello all 👋 Ramon here!</h1>
+<h3 align="center">A passionate ✨ Software Developer ✨ with a lot of heart!</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramon-villarreal-leal&label=Profile%20views&color=blueviolet&style=flat-square" alt="ramon-villarreal-leal" /> </p>
+
+- 🔭 I’m currently working on studying for my **Salesforce Admin Certification** and deepening my understanding of **Java**.
+- 🌱 I’m currently learning **Java** and **Salesforce**.
+- 📫 How to reach me: **ramon.villarreal.leal@gmail.com💻**
+- 📄 Let's stay connected! [https://www.linkedin.com/in/ramon-villarreal-leal/](https://www.linkedin.com/in/ramon-villarreal-leal/)
+- ⚡ Fun fact: I love all things comedy, train Brazilian Jiu-Jitsu, and Muay Thai! :godmode: :relaxed:
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ramon-villarreal-leal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ramon-villarreal-leal" height="30" width="40" /></a>
+</p>
