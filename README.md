@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello all 👋 Ramon here!</h1>
+<h1 align="center">Hello all 👋 Ramon Villarreal-Leal here!</h1>
 <h3 align="center">A ✨ Software Developer ✨ with a lot of heart!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramon-villarreal-leal&label=Profile%20views&color=blueviolet&style=flat-square" alt="ramon-villarreal-leal" /> </p>
 
