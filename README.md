@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ramon-villarreal-leal/ramon-villarreal-leal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello all 👋 Ramon here!</h1>
-<h3 align="center">A passionate ✨ Software Developer ✨ with a lot of heart!</h3>
+<h3 align="center">A ✨ Software Developer ✨ with a lot of heart!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramon-villarreal-leal&label=Profile%20views&color=blueviolet&style=flat-square" alt="ramon-villarreal-leal" /> </p>
 
 - 🔭 I’m currently working on studying for my **Salesforce Admin Certification** and deepening my understanding of **Java**.
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **ramon.villarreal.leal@gmail.com💻**
 - 📄 Let's stay connected! [https://www.linkedin.com/in/ramon-villarreal-leal/](https://www.linkedin.com/in/ramon-villarreal-leal/)
 - ⚡ Fun fact: I love all things comedy, train Brazilian Jiu-Jitsu, and Muay Thai! :godmode: :relaxed:
-
+- **UNDER CONSTRUCTION**
 
 
 
