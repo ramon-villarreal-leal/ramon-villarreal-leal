@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java** and **Salesforce**.
 
--:round_pushpin: I'm currently located in **San Antonio, Texas**.
+- :round_pushpin: I'm currently located in **San Antonio, Texas**.
 
 - 📫 How to reach me: **ramon.villarreal.leal@gmail.com💻**
 
