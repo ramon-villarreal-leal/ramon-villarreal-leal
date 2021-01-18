@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on studying for my **Salesforce Admin Certification** and deepening my understanding of **Java**.
 - 🌱 I’m currently learning **Java** and **Salesforce**.
-- :round_pushpin: I'm currently located in **San Antonio, Texas**.
+-:round_pushpin: I'm currently located in **San Antonio, Texas**.
 - 📫 How to reach me: **ramon.villarreal.leal@gmail.com💻**
 - 📄 Let's stay connected! [https://www.linkedin.com/in/ramon-villarreal-leal/](https://www.linkedin.com/in/ramon-villarreal-leal/)
 - ⚡ Fun fact: I love all things comedy, train Brazilian Jiu-Jitsu, and Muay Thai! :godmode: :jack_o_lantern:
