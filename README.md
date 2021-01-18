@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on studying for my **Salesforce Admin Certification** and deepening my understanding of **Java**.
 - 🌱 I’m currently learning **Java** and **Salesforce**.
+- :round_pushpin: I'm currently located in **San Antonio, Texas**.
 - 📫 How to reach me: **ramon.villarreal.leal@gmail.com💻**
 - 📄 Let's stay connected! [https://www.linkedin.com/in/ramon-villarreal-leal/](https://www.linkedin.com/in/ramon-villarreal-leal/)
-- ⚡ Fun fact: I love all things comedy, train Brazilian Jiu-Jitsu, and Muay Thai! :godmode: :relaxed:
+- ⚡ Fun fact: I love all things comedy, train Brazilian Jiu-Jitsu, and Muay Thai! :godmode: :jack_o_lantern:
 - **UNDER CONSTRUCTION**
 
 
@@ -32,3 +33,5 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.linkedin.com/in/ramon-villarreal-leal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ramon-villarreal-leal" height="30" width="40" /></a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramon-villarreal-leal&show_icons=true&locale=en&layout=compact" alt="ramon-villarreal-leal"></p>
