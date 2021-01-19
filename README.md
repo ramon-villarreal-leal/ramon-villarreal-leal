@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: I love all things comedy, train Brazilian Jiu-Jitsu, and Muay Thai! :godmode: :jack_o_lantern:
 
-- **UNDER CONSTRUCTION**
+- :construction_worker_man: **UNDER CONSTRUCTION**
 
 
 
