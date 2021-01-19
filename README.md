@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on studying for my **Salesforce Admin Certification** and deepening my understanding of **Java**.
 
+- :basecamp: Progress towards my **[SalesForce Administrator Certification](https://trailblazer.me/id/ramon-villa-leal)**
+
 - 🌱 I’m currently learning **Java** and **Salesforce**.
 
 - :round_pushpin: I reside in **San Antonio, Texas**.
