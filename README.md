@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A ✨ Software Developer ✨ with a lot of heart!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramon-villarreal-leal&label=Profile%20views&color=blueviolet&style=flat-square" alt="ramon-villarreal-leal" /> </p>
 
-- 🔭 I’m currently an Application Development Analyst at Accenture LLP (Github needs updating).
+- 🔭 I’m currently an Application Development Analyst at Accenture LLP since July 2021 (Github needs updating).
 
 - :basecamp: Progress towards my **[SalesForce Administrator Certification](https://trailblazer.me/id/ramon-villa-leal)**.
 
