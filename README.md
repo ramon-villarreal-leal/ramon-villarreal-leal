@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java** and **Salesforce**.
 
-- :round_pushpin: I reside in **San Antonio, Texas**.
+- :round_pushpin: I reside in **Dallas, Texas**.
 
 - 📫 How to reach me: **ramon.villarreal.leal@gmail.com💻**
 
